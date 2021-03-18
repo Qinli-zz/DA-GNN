@@ -6,7 +6,7 @@ Numpy
 # Trainging
 There are two codes for two different datasets: human3.6 and CMU Mocap. You could select one of them, e.g., human3.6
 
-    cd code_for_human3.6
+    cd prediction_h3.6m
 
 run
 
