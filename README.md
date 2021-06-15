@@ -3,11 +3,7 @@ Human motion prediction is essential in humanrobot interaction. Current research
 # Module Requirement
 Pytorch >= 3.6  
 Numpy  
-# Trainging
-There are two codes for two different datasets: human3.6 and CMU Mocap. You could select one of them, e.g., human3.6
-
-    cd prediction_h3.6m
-
+# Training and test
 run
 
     python main.py
